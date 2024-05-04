@@ -1,25 +1,29 @@
 {
-    "facultades": [
-      {
-        "id": 1,
-        "nombre_facultad": "Facultad de Ingenierias"
-      },
-      {
-        "id": 2,
-        "nombre_facultad": "Facultad de Ciencias de la salud"
-      },
-      {
-        "id": 3,
-        "nombre_facultad": "Facultad Administrativas, Económicas y Contables"
-      },
-      {
-        "id": 4,
-        "nombre_facultad": "Facultad de Ciencias de la Educación"
-      },
-      {
-        "id": 5,
-        "nombre_facultad": "Facultad de Ciencias Jurídicas y Humanísticas"
-      }
-    ]
-  }
-  
+  "facultades": [
+    {
+      "id": 1,
+      "nombre_facultad": "Facultad de Ingenierias",
+      "programas": ["Ingeniería Civil", "Ingeniería Eléctrica", "Ingeniería Mecánica"]
+    },
+    {
+      "id": 2,
+      "nombre_facultad": "Facultad de Ciencias de la salud",
+      "programas": ["Medicina", "Enfermería", "Odontología"]
+    },
+    {
+      "id": 3,
+      "nombre_facultad": "Facultad Administrativas, Económicas y Contables",
+      "programas": ["Administración de Empresas", "Contaduría Pública", "Economía"]
+    },
+    {
+      "id": 4,
+      "nombre_facultad": "Facultad de Ciencias de la Educación",
+      "programas": ["Educación Preescolar", "Educación Primaria", "Educación Especial"]
+    },
+    {
+      "id": 5,
+      "nombre_facultad": "Facultad de Ciencias Jurídicas y Humanísticas",
+      "programas": ["Derecho", "Psicología", "Trabajo Social"]
+    }
+  ]
+}
