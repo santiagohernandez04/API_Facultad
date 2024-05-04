@@ -1,0 +1,25 @@
+{
+    "facultades": [
+      {
+        "id": 1,
+        "nombre_facultad": "Facultad de Ingenierias"
+      },
+      {
+        "id": 2,
+        "nombre_facultad": "Facultad de Ciencias de la salud"
+      },
+      {
+        "id": 3,
+        "nombre_facultad": "Facultad Administrativas, Económicas y Contables"
+      },
+      {
+        "id": 4,
+        "nombre_facultad": "Facultad de Ciencias de la Educación"
+      },
+      {
+        "id": 5,
+        "nombre_facultad": "Facultad de Ciencias Jurídicas y Humanísticas"
+      }
+    ]
+  }
+  
